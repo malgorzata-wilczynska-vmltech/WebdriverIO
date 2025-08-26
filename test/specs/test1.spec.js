@@ -12,7 +12,7 @@ it('Example Test', async() => {
 
     browser.keys('Enter')
 
-    browser.pause(50000)
+    browser.pause(5000)
 
     });
 
